@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/onzzz/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/Users/onzzz/Desktop/FBLogin/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.0-9a77dcb564432ca5fb95411e65927b1314a92ec5.jar" />
+    </item>
+    <item
+        jar="/Users/onzzz/Desktop/FBLogin/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.6.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1c1afa0ab2a8197a5da1b36c4167a9e479cb74d9">
+        <dex dex="/Users/onzzz/Desktop/FBLogin/app/build/intermediates/pre-dexed/debug/classes-ec21870d623cd2bf63267baa9036f8189b1f6099.jar" />
+    </item>
+    <item
+        jar="/Users/onzzz/Desktop/FBLogin/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/Users/onzzz/Desktop/FBLogin/app/build/intermediates/pre-dexed/debug/classes-29816cb2acd15d70c274653a6ffeb34ef7444da2.jar" />
+    </item>
+    <item
+        jar="/Users/onzzz/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.0/6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd/bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="/Users/onzzz/Desktop/FBLogin/app/build/intermediates/pre-dexed/debug/bolts-android-1.2.0-f4bc1f8a65a7d2bff96ee78653fe17fc0b975817.jar" />
+    </item>
+    <item
+        jar="/Users/onzzz/Desktop/FBLogin/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/Users/onzzz/Desktop/FBLogin/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-079298ce95be53454722884380adcc7ba2617aaa.jar" />
+    </item>
+    <item
+        jar="/Users/onzzz/Desktop/FBLogin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/Users/onzzz/Desktop/FBLogin/app/build/intermediates/pre-dexed/debug/classes-5c0513d2cf5cb54167243150ece59c6708be57f5.jar" />
+    </item>
+
+</items>
